@@ -1,0 +1,17 @@
+.container {
+    margin: 0 auto;
+    text-align: center;
+    width: 100vw;
+    height: 90vh;
+    text-align: center;
+}
+
+#shape{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(13, 13, 80);
+    display: none;
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
